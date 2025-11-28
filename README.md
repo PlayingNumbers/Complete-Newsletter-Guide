@@ -219,12 +219,97 @@ You don't always need to write from scratch. Your newsletter can be the "Best Of
 ---
 
 ### 📧 Subject Lines
-The subject line is the gatekeeper. If this fails, the content inside doesn't matter.
+Your subject line is the most important sentence you will write. If it fails, your 2,000-word newsletter might as well be blank.
 
-* **My complete subject line analysis / Guide:** [Reddit: 5 Lessons on Subject Lines from Studying 1,315 Campaigns](https://www.reddit.com/r/beehiiv/comments/1mcisye/5_lessons_on_subject_lines_from_studying_1315/)
+Based on an analysis of **1,315 newsletter campaigns**, here are the 5 core lessons for writing subject lines that actually get opened.
+
+#### 1. Cure "Creative Block" with Curiosity & Value
+The biggest struggle for creators is simply "What do I write?" Avoid generic titles like "Weekly Update #45." Instead, use these three hooks:
+* **The Curiosity Gap:** Leave a specific knowledge gap that compels the brain to close it.
+    * *Bad:* "My thoughts on productivity tools."
+    * *Good:* "The $12 tool that replaced my $200/month subscription."
+* **Value-First:** Lead with the *benefit* the reader gets, not the feature you are sharing.
+    * *Bad:* "New video on YouTube."
+    * *Good:* "Cut your video editing time by 50% with this workflow."
+* **Pattern Interruption:** If everyone in your niche uses questions ("Want to grow?"), use a bold statement ("Stop trying to grow."). If everyone uses title case, try lowercase. Break the pattern of the inbox.
+
+#### 2. Technical Fixes > Creative Fixes
+Before you obsess over "power words," fix your tech. Analysis shows that **authentication issues** are often the real reason for low open rates, not bad writing.
+* **The Reality:** A boring subject line in the **Primary Tab** will always outperform a brilliant subject line in the **Spam Folder**.
+* **Action:** Ensure your SPF, DKIM, and DMARC records are set up (see the *Deliverability* section above). One creator went from 7% to 22% opens overnight just by fixing this.
+
+#### 3. Personalization (Don't Be Creepy)
+"Hey [Name]" is the oldest trick in the book, and readers are numb to it. It often feels manipulative.
+* **The Better Way (Behavioral Personalization):** Segment your audience based on what they *do*, not just who they are.
+    * *Example:* "Since you clicked on the Python guide last week..."
+* **The "Friend" Filter:** Write your subject line as if you were emailing one specific friend. Friends don't use "RE: URGENT LAST CHANCE" on a Tuesday morning. They speak naturally.
+
+#### 4. Standing Out in a Crowded Inbox
+Your subscriber likely gets 100+ emails a day. How do you win the scroll?
+* **Preview Text:** This is the "second subject line" that shows up next to your title on mobile. Do not waste it.
+    * *Bad:* "View this email in your browser..."
+    * *Good:* "...and why it's costing you $1,000/year." (Continues the thought from the subject line).
+* **Emoji Strategy:** Use them sparingly. 1 emoji can add visual flair; 5 emojis looks like a scam. Place them at the *start* of the subject line to catch the eye on mobile.
+
+#### 5. Overcoming "Testing Paralysis"
+You don't need a list of 100,000 to run A/B tests. But you do need to test the right things.
+* **The "Dramatic Difference" Rule:** If you have a small list, don't test "Blue vs. Light Blue." Test "Apples vs. Oranges."
+    * *Test A:* A short, punchy question. ("Ready?")
+    * *Test B:* A long, benefit-driven statement. ("How to fix your sleep schedule in 3 days")
+* **One Variable Only:** Never change the time *and* the subject line in the same test. You won't know which one caused the win.
+
+**📚 Subject Line Resources:**
+* **[5 Lessons on Subject Lines from Studying 1,315 Campaigns (Reddit)](https://www.reddit.com/r/beehiiv/comments/1mcisye/5_lessons_on_subject_lines_from_studying_1315/)** - *My deep dive analysis referenced above.*
+* **[100+ Best Email Subject Lines (Skrapp)](https://skrapp.io/blog/email-subject-lines/)** - A massive swipe file of examples to inspire you when you're stuck.
+* **[Subject Line Tester (Omnisend)](https://www.omnisend.com/subject-line-tester/)** - A free tool to score your subject line before you hit send.
+* **[The Science of Perfect Subject Lines (Medium)](https://ronntorossian.medium.com/the-science-of-perfect-subject-lines-for-pr-emails-a5c6734239d3)** - Data-backed research on character counts and open rates.
 
 ### 📣 Call to Actions (CTAs)
-*Coming soon.*
+You can have the best open rates in the world, but if nobody clicks, your newsletter is just a digital diary. The **Call to Action (CTA)** is the bridge between *reading* and *doing*.
+
+Whether you want them to buy a course, read a blog post, or click a sponsored ad, the principles are the same.
+
+#### 1. Why CTAs Matter (Especially for Monetization)
+In the Creator Economy, **Click-Through Rate (CTR)** is often the metric that determines your income.
+* **Sponsorships:** Brands pay for traffic. If you can prove your audience takes action, you can charge premium rates.
+* **Beehiiv Ads / PPC:** Platforms like Beehiiv offer "Boosts" and Ad Networks where you are often paid **Per Click** (PPC) or per acquisition.
+    * *The Math:* If an ad pays $2.00 per click, and you write a lazy CTA that gets 10 clicks, you made $20. If you write a compelling CTA that gets 100 clicks, you made $200. **Copywriting directly impacts your wallet.**
+
+#### 2. The "Native" Ad Strategy (For Higher Click Rates)
+Readers have "Banner Blindness"—they subconsciously ignore anything that looks like a traditional display ad.
+* **The Fix:** Use "Native" CTAs. Weave the CTA into the flow of your writing.
+    * *Bad (Banner style):* [Click here to see the sponsor]
+    * *Good (Native style):* "I've been struggling with SEO lately, which is why I started using **[Tool Name]**. It actually helped me fix my broken links in about 5 minutes..."
+
+#### 3. The Psychology of the Click
+People don't click "buttons"; they click "benefits."
+* **The "Value" Rule:** Your CTA text should describe what happens *after* the click, not the click itself.
+    * *Weak:* "Click here" / "Read more" / "Submit"
+    * *Strong:* "Get the free checklist" / "Watch the video analysis" / "Claim your discount"
+* **The "I want to" Test:** A good CTA usually completes the sentence "I want to..."
+    * *(I want to)* **Download the PDF.**
+
+#### 4. Design & Placement
+* **The Button vs. Text Link:** Use **Buttons** for your #1 primary goal (buying a product). Use **Text Links** for secondary goals (references, social shares). Buttons draw the eye; text links feel conversational.
+* **The "Above the Fold" Myth:** You don't always need the CTA at the very top. For high-ticket items or complex ideas, you need to build trust first. Place the CTA **after** you have delivered the value.
+* **The "P.S." Power:** The P.S. line is one of the most read parts of any email. It is a prime location for a final CTA.
+    * *Example:* "P.S. If you want to dive deeper, grab my course here."
+
+#### 5. The "One Goal" Rule
+The quickest way to kill your conversion rate is the **Paradox of Choice**. If you ask a reader to:
+1. Follow you on Twitter...
+2. AND check out your sponsor...
+3. AND buy your merch...
+4. AND read your blog...
+
+...they will do **nothing**.
+**Rule:** Every specific email should have **one** primary objective. Everything else is secondary noise.
+
+**📚 Deep Dive Resources on CTAs:**
+* **[50 Call to Action Examples That You Can't Help But Click (HubSpot)](https://blog.hubspot.com/marketing/call-to-action-examples)** - A massive swipe file of visual and text examples.
+* **[The Ultimate Guide to Email CTAs (Campaign Monitor)](https://www.campaignmonitor.com/blog/email-marketing/the-ultimate-guide-to-email-ctas/)** - Covers button design, colors, and placement data.
+* **[Copywriting Buttons: The "I Want To" Rule (Copyhackers)](https://copyhackers.com/2013/06/button-copy-optimization/)** - The definitive guide on writing button text that converts.
+* **[How to monetize your newsletter with Beehiiv Ads (Beehiiv Blog)](https://www.beehiiv.com/blog/monetize-newsletter)** - Specifics on how their ad network functions and how to drive clicks.
 
 ---
 
