@@ -264,6 +264,23 @@ You don't need a list of 100,000 to run A/B tests. But you do need to test the r
 * **[Subject Line Tester (Omnisend)](https://www.omnisend.com/subject-line-tester/)** - A free tool to score your subject line before you hit send.
 * **[The Science of Perfect Subject Lines (Medium)](https://ronntorossian.medium.com/the-science-of-perfect-subject-lines-for-pr-emails-a5c6734239d3)** - Data-backed research on character counts and open rates.
 
+---
+
+> **🚀 Level Up Your Writing Workflow**
+>
+> Writing high-quality content is hard enough without having to format it for three different platforms.
+>
+> I built **[Newsletter Hero](https://www.newsletterhero.ai/)** to streamline this entire process. It helps you:
+> * **Refine Your Voice:** Write with compelling storytelling that matches your specific style.
+> * **Generate Hooks:** Create amazing subject lines based on data.
+> * **Publish Everywhere:** Write once and automatically repurpose/post to Beehiiv, Substack, LinkedIn, and X simultaneously.
+>
+> 👉 **[The product is Live: Try it here](https://www.newsletterhero.ai/)**
+>
+> **Special Launch Deal:** Use Code **`BETA45`** to get the full year for **$99** (more than 50% off the monthly rate).
+
+---
+
 ### 📣 Call to Actions (CTAs)
 You can have the best open rates in the world, but if nobody clicks, your newsletter is just a digital diary. The **Call to Action (CTA)** is the bridge between *reading* and *doing*.
 
