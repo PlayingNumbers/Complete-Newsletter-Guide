@@ -17,8 +17,9 @@ A complete guide/roadmap for choosing, writing, growing, and monetizing your new
     * [Summary & Comparison Table](#summary--comparison-table)
     * [Discovery Platforms (Medium & LinkedIn)](#discovery-platforms-medium--linkedin)
 * [**4. Writing Your Newsletter**](#4-writing-your-newsletter)
+    * [Creating High-Quality Content](#creating-high-quality-content)
     * [Subject Lines](#subject-lines)
-    * [Call to Actions](#call-to-actions)
+    * [Call to Actions (CTAs)](#call-to-actions)
 * [**5. Deliverability**](#5-deliverability-getting-into-the-inbox)
     * [Technical Setup (DKIM, SPF, DMARC)](#1-the-technical-setup-dkim-spf-dmarc)
     * [The "Warm Up" Phase](#2-the-warm-up-phase)
@@ -184,7 +185,7 @@ The platform you choose matters, but the **content** is what keeps people subscr
 
 Here is a framework for creating content that people actually want to read.
 
-### ✍️ Creating High-Quality Content
+<h3 id="creating-high-quality-content">✍️ Creating High-Quality Content</h3>
 
 #### 1. Finding Your "Voice"
 Your "voice" is what makes your newsletter sound like *you*, not a corporate robot. It is the reason people read *your* news analysis instead of just reading CNN.
@@ -218,7 +219,7 @@ You don't always need to write from scratch. Your newsletter can be the "Best Of
 
 ---
 
-### 📧 Subject Lines
+<h3 id="subject-lines">📧 Subject Lines</h3>
 Your subject line is the most important sentence you will write. If it fails, your 2,000-word newsletter might as well be blank.
 
 Based on an analysis of **1,315 newsletter campaigns**, here are the 5 core lessons for writing subject lines that actually get opened.
@@ -281,7 +282,7 @@ You don't need a list of 100,000 to run A/B tests. But you do need to test the r
 
 ---
 
-### 📣 Call to Actions (CTAs)
+<h3 id="call-to-actions">📣 Call to Actions (CTAs)</h3>
 You can have the best open rates in the world, but if nobody clicks, your newsletter is just a digital diary. The **Call to Action (CTA)** is the bridge between *reading* and *doing*.
 
 Whether you want them to buy a course, read a blog post, or click a sponsored ad, the principles are the same.
