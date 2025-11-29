@@ -5,7 +5,6 @@ A complete guide/roadmap for choosing, writing, growing, and monetizing your new
 *If I'm missing anything or you would like me to expand on an area, please let me know via Twitter/X: [@KenJee_DS](https://x.com/KenJee_DS)*
 
 ---
-
 ## 📖 Table of Contents
 
 * [**1. Introduction**](#1-introduction)
@@ -25,20 +24,50 @@ A complete guide/roadmap for choosing, writing, growing, and monetizing your new
     * [The "Warm Up" Phase](#2-the-warm-up-phase)
     * [Escaping the Promotions Tab](#3-escaping-the-promotions-tab)
     * [List Hygiene](#4-list-hygiene-the-hardest-pill-to-swallow)
-    * [Warm-up Tools](#%EF%B8%8F-tools-for-warming-up-your-email)
+    * [Warm-up Tools](#tools-for-warming-up)
 * [**6. Growing Your Newsletter**](#6-growing-your-newsletter)
-    * [Creating a Lead Magnet](#creating-a-lead-magnet)
+    * [Engine 1: Lead Magnets](#creating-a-lead-magnet)
+    * [Engine 2: Organic Growth (Social & SEO)](#organic-growth-social-seo)
+    * [Engine 3: Platform Network Effects](#newsletter-platform-growth)
+    * [Engine 4: Paid Growth (Ads)](#paid-growth-ads)
+    * [Engine 5: Referral Programs](#referral-programs)
     * [Repurposing Content](#repurposing-content)
 * [**7. Monetizing Your Newsletter**](#7-monetizing-your-newsletter)
+    * [1. Affiliate Marketing](#affiliates)
+    * [2. Paid Recommendations](#referrals-beehiiv)
+    * [3. Sponsorships & Ads](#advertisements)
+    * [4. Tips & Donations](#tips)
+    * [5. Digital Products](#products)
+    * [6. Paid Subscriptions](#subscriptions-premium-content)
+    * [7. Consulting & Services](#consulting-services)
+    * [8. Paid Webinars & Events](#host-paid-webinars-or-events)
 * [**8. Troubleshooting & Resources**](#8-troubleshooting--resources)
-
 ---
 
 <h2 id="1-introduction">1. Introduction</h2>
 
-*Add Guide Intro Here*
-*Add call to action (star / follow me on twitter)*
-*Add deals section*
+<h2 id="1-introduction">1. Introduction</h2>
+
+**The zero-to-one roadmap for choosing, writing, growing, and monetizing your newsletter in 2025.**
+
+I built this repository because the advice on newsletters is scattered across hundreds of blog posts, paywalls, and YouTube videos. I wanted to create a single, living document that covers everything from *"Which platform do I pick?"* to *"How do I actually make money?"*
+
+Whether you are a developer, a writer, or a business owner, this guide is designed to be your operating system.
+
+### 🌟 Support the Guide
+If you find this resource helpful, please **Star this repository** (click the ⭐ button at the top right)! It helps more people find this guide.
+
+### 🙋‍♂️ Have Questions?
+If you feel something is missing or you need clarification on a specific section, please let me know. I update this guide frequently based on community feedback.
+
+* **Connect with me on X (Twitter):** [@KenJee_DS](https://x.com/KenJee_DS)
+
+---
+
+### 🎁 Exclusive Deals for Readers
+* **[Beehiiv](https://www.beehiiv.com?via=Ken-Jee):** The best platform for growth. (30-day trial + 20% OFF for 3 months).
+* **[Newsletter Hero](https://www.newsletterhero.ai/):** My multi-platform publishing tool. Use code **`BETA45`** for >50% off.
+* **[Kit](https://partners.kit.com/rkyyw46q4p6k):** The best platform for automation (60% off your first 3 months)
 
 ---
 
