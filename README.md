@@ -245,6 +245,7 @@ You don't always need to write from scratch. Your newsletter can be the "Best Of
 * **Twitter/LinkedIn to Newsletter:** Take your best-performing social post of the week and expand on it.
 * **Video to Text:** Use AI tools to transcribe and summarize your YouTube videos into a text-based newsletter.
 * **Resource:** [How to Repurpose Blog Content for Newsletters](https://moosend.com/blog/repurpose-blog-content/)
+* **[Newsletter Hero](https://www.newsletterhero.ai/):** We do this for you with the click of a button
 
 ---
 
