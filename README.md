@@ -88,12 +88,6 @@ I've seen a few types of newsletters become very popular in the last few years:
 
 ---
 
-### 🎁 Exclusive Deals for Readers
-* **[Beehiiv](https://www.beehiiv.com?via=Ken-Jee):** The best platform for growth. (30-day trial + 20% OFF for 3 months).
-* **[Newsletter Hero](https://www.newsletterhero.ai/):** My multi-platform publishing tool. Use code **`BETA45`** for >50% off.
-* **[Kit](https://partners.kit.com/rkyyw46q4p6k):** The best platform for automation (60% off your first 3 months)
-
----
 
 <h2 id="3-choosing-your-platform">3. Choosing Your Platform</h2>
 
@@ -148,6 +142,14 @@ With that being said, I think three platforms are generally good for most of the
 
 > **💡 Opinion:** Kit is the best platform for creators who want to **sell digital products** and automate their business. Unlike Substack and Beehiiv, which focus primarily on the "newsletter" as the product, Kit acts as a backend engine to sell *other* things (like courses or coaching). If you need your email list to automatically "funnel" people into buying products, Kit is the superior choice.
 
+---
+
+### 🎁 Exclusive Deals for Readers
+* **[Beehiiv](https://www.beehiiv.com?via=Ken-Jee):** The best platform for growth. (30-day trial + 20% OFF for 3 months).
+* **[Newsletter Hero](https://www.newsletterhero.ai/):** My multi-platform publishing tool. Use code **`BETA45`** for >50% off.
+* **[Kit](https://partners.kit.com/rkyyw46q4p6k):** The best platform for automation (60% off your first 3 months)
+
+---
 <h3 id="summary--comparison-table">📊 Quick Summary</h3>
 
 | Feature | Beehiiv | Substack | Kit |
