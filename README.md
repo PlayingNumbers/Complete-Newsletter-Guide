@@ -46,8 +46,6 @@ A complete guide/roadmap for choosing, writing, growing, and monetizing your new
 
 <h2 id="1-introduction">1. Introduction</h2>
 
-<h2 id="1-introduction">1. Introduction</h2>
-
 **The zero-to-one roadmap for choosing, writing, growing, and monetizing your newsletter in 2025.**
 
 I built this repository because the advice on newsletters is scattered across hundreds of blog posts, paywalls, and YouTube videos. I wanted to create a single, living document that covers everything from *"Which platform do I pick?"* to *"How do I actually make money?"*
