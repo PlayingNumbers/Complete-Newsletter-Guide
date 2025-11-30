@@ -64,13 +64,6 @@ If you feel something is missing or you need clarification on a specific section
 
 ---
 
-### 🎁 Exclusive Deals for Readers
-* **[Beehiiv](https://www.beehiiv.com?via=Ken-Jee):** The best platform for growth. (30-day trial + 20% OFF for 3 months).
-* **[Newsletter Hero](https://www.newsletterhero.ai/):** My multi-platform publishing tool. Use code **`BETA45`** for >50% off.
-* **[Kit](https://partners.kit.com/rkyyw46q4p6k):** The best platform for automation (60% off your first 3 months)
-
----
-
 <h2 id="2-choosing-your-newsletter-style">2. Choosing Your Newsletter Style</h2>
 
 Before you choose the platform you publish your newsletter on, you should have an idea about who the audience of the newsletter is. You should also consider the type of newsletter you want to publish. This will help inform what platform you want to publish it on.
@@ -92,6 +85,13 @@ There are multiple different types of newsletters you can write. Here are some e
 I've seen a few types of newsletters become very popular in the last few years:
 1.  **Analysis newsletters:** Giving unique insights from your personal perspective on a topic or industry seems to be harder to commoditize than aggregators or news.
 2.  **Local newsletters:** These have an even greater connection with readers because you may even see them at local events. People often also feel more connected to their local communities than the broader world.
+
+---
+
+### 🎁 Exclusive Deals for Readers
+* **[Beehiiv](https://www.beehiiv.com?via=Ken-Jee):** The best platform for growth. (30-day trial + 20% OFF for 3 months).
+* **[Newsletter Hero](https://www.newsletterhero.ai/):** My multi-platform publishing tool. Use code **`BETA45`** for >50% off.
+* **[Kit](https://partners.kit.com/rkyyw46q4p6k):** The best platform for automation (60% off your first 3 months)
 
 ---
 
